@@ -13,6 +13,6 @@
 
 # AI developers:
 - https://github.com/Abdelrahman-Menisy
-- abeerhassan2002
+- https://github.com/abeerhassan2002
 
 # backend developers:

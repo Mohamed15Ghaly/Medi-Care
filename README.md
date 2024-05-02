@@ -12,6 +12,6 @@
 
 # AI developers:
 - Abdelrahman-Menisy
--abeerhassan2002
+- abeerhassan2002
 
 # backend developers:

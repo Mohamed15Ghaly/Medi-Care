@@ -15,7 +15,7 @@ from tensorflow.keras.optimizers import SGD
 
 
 
-file = open(r"C:\Users\abdel\OneDrive\Desktop\college project\chatbot\old chatbot\intents.json").read()
+file = open(r"intents.json").read()
 data = json.loads(file)
 
 

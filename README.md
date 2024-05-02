@@ -12,7 +12,7 @@
 
 
 # AI developers:
-- Abdelrahman-Menisy
+- https://github.com/Abdelrahman-Menisy
 - abeerhassan2002
 
 # backend developers:

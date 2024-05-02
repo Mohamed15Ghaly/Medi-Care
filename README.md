@@ -9,12 +9,12 @@
 
 # flutter developers :
 - https://github.com/Mohamed15Ghaly
-
-
-
+- https://github.com/AhmedSaleh74
+- https://github.com/aymangomaa604
+- https://github.com/nancyismil
 
 # web developers:
-
+- https://github.com/manar587
 
 
 # AI developers:
@@ -22,3 +22,4 @@
 - https://github.com/abeerhassan2002
 
 # backend developers:
+- https://github.com/saberelsayed1984
